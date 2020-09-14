@@ -1,2 +1,2 @@
 # Project-4-
-Deep learning models for pricing and hedging a portfolio of derivatives
+We develop deep learning models for pricing and hedging a portfolio of derivatives. For simplicity, in this project we choose European options and a small nmuber of training samples(300). Actually, with an increasing number of training samples, we find that the deep learning model is able to replicate the traditional model hedge such as Black-Scholes model hedge and Leland model hedge reasonably well, and even outperforms the traditional model hedge.  
